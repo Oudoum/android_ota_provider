@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1784828716",
+      "datetime": "1784999684",
       "filename": "lineage-20.0-20260725-UNOFFICIAL-herolte.zip",
-      "id": "240b46ef977c9dd111d65b3ed4854c11f69c25c374788dd696d95f7b2100a467",
+      "id": "01fdb7f56be8603c3d4e9dd70e221a2b3b76bbee8e2f1578a4a26d0d08ff5bbe",
       "romtype": "UNOFFICIAL",
-      "size": "780891977",
-      "url": "https://github.com/Oudoum/android_ota_provider/releases/download/herolte_lineage-20.0_1784828716/lineage-20.0-20260725-UNOFFICIAL-herolte.zip",
+      "size": "780891855",
+      "url": "https://github.com/Oudoum/android_ota_provider/releases/download/herolte_lineage-20.0_1784999684/lineage-20.0-20260725-UNOFFICIAL-herolte.zip",
       "version": "20.0"
     }
   ]
